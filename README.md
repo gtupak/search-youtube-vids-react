@@ -7,4 +7,4 @@ You can search up terms querried agains the Youtube Data API and display them on
 
 If you want to try it, you'll have to replace the API key of the Youtube API with your own, from the [google developer console](https://console.developers.google.com)
 
-![]()
+![screenshot](https://github.com/gtupak/search-youtube-vids-react/blob/master/public/screenshot.png?raw=true)
